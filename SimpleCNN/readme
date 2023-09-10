@@ -1,0 +1,3 @@
+# Always Start with something small, then gradually increase the complexity.
+
+- This notebook has CNN and FC layers only model. It only serves as starting point and to see how a simple model performs on this dataset.
